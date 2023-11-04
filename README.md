@@ -30,7 +30,7 @@ Example of API using nodejs and express with dummy endpoint https://dummyjson.co
 ## How to use
 1. With a **group of products** (http://localhost:3500/api/products)
 
-    ![get-all-products.png](./assets/all-products.png)
+    ![get-all-products.png](./assets/get-all-products.png)
 
     - You can pass "limit" and "skip" params in the URL to limit and skip the results for pagination. (http://localhost:3500/api/products?limit=10&skip=20)
 
