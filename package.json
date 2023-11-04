@@ -1,6 +1,6 @@
 {
   "name": "api-nodejs",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Example of API usign nodejs and express with the dummy endpoint https://dummyjson.com/docs/products",
   "main": "index.js",
   "repository": {

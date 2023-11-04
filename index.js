@@ -1,9 +1,11 @@
 require("dotenv").config();
 const express = require("express");
+const cors = require("cors");
 const app = express();
 const port = process.env.PORT;
 
-
+// CORS for all Origins
+app.use(cors());
 
 // Principal Route
 app.use("/api/products", require("./routes/products-routes"));
