@@ -9,7 +9,7 @@ const router = Router();
 
 /**
  * Route for getting a list of products.
- * @name GET /products
+ * @name GET api/products
  * @function
  */
 router.get("/", getProducts);
