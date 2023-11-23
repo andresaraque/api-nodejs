@@ -18,7 +18,7 @@ Example of API using nodejs and express with dummy endpoint https://dummyjson.co
     ```bash
     npm i
     ```
-## Usage
+## Use
 
 1. Run and view the changes locally with the following command.
     ```bash
