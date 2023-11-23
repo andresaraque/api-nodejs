@@ -2,8 +2,8 @@
 
 Example of API using nodejs and express with dummy endpoint https://dummyjson.com/docs/products
 
-## Installation
-1. If you do not have nodejs installed on your machine, please download it with the following link [Download Node.js and npm](https://nodejs.org/en/download). I used npm the default package manager for the node.js javaScript runtime.
+## Prerequisites
+1. If you have Node.js installed on your machine, go to point 4. Instead please download it with the following link [Download Node.js and npm](https://nodejs.org/en/download). I used npm the default package manager for the node.js javaScript runtime.
 
 2. In the terminal type the below command and press **Enter key**. The version we have installed of Node.js should appear (in my case v14.21.3)
     ```bash
@@ -14,7 +14,7 @@ Example of API using nodejs and express with dummy endpoint https://dummyjson.co
     npm -v
     ```
 
-4. So, let's install it in the terminal type the following command and press **Enter key**.
+4. So, let's install it, in the terminal type the following command and press **Enter key**.
     ```bash
     npm i
     ```
